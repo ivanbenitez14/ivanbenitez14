@@ -1,4 +1,9 @@
-### Hi! I am a Frontend developer currently pursuing a Computer Science Degree. I enjoy designing and programming web pages and apps, and I'm always eager to learn new things every day
+### Hi! I am a Frontend developer currently pursuing a Computer Science Degree. I enjoy designing and programming web pages and apps, and I'm always eager to learn new things every day.
+
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,angular,java,jquery,tailwind,ts,mongodb,mysql,nodejs)](https://skills.thijs.gg)
+
+
+P.D. I also hold a degree in administration!
 
 <!--
 **ivanbenitez14/ivanbenitez14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
