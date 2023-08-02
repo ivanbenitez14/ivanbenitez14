@@ -1,4 +1,4 @@
-### Hi! I am a Frontend developer who enjoys to design and program web pages and apps. I also like to learn new things everyday.
+### Hi! I am a Frontend developer currently pursuing a Computer Science Degree. I enjoy designing and programming web pages and apps, and I'm always eager to learn new things every day
 
 <!--
 **ivanbenitez14/ivanbenitez14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
