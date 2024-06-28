@@ -1,10 +1,5 @@
 ### Hi! I am a Frontend developer currently pursuing a Computer Science Degree. I enjoy designing and programming web pages and apps, and I'm always eager to learn new things every day.
-
-### Languages and Tools:
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,angular,java,jquery,tailwind,ts,mongodb,mysql,nodejs,express)](https://skills.thijs.gg)
-
 <br />
-
 P.D. I also hold a degree in administration!
 
 <!--
