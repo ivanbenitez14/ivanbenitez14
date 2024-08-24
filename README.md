@@ -1,5 +1,4 @@
 ### Hi! I am a Frontend developer currently pursuing a Computer Science Degree. I enjoy designing and programming web pages and apps, and I'm always eager to learn new things every day.
-<br />
 Currently, I'm working on two projects: one using the MERN stack, and another with Next.js, App Router, Server Actions, Prisma, Zod, Zustand, and Tailwind.
 <br />
 P.D. I also hold a degree in administration!
